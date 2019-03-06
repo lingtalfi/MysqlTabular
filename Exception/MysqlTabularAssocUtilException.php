@@ -1,6 +1,6 @@
 <?php
 
-namespace MysqlTabular\Exception;
+namespace Ling\MysqlTabular\Exception;
 
 /*
  * LingTalfi 2015-10-03

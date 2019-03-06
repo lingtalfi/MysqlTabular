@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MysqlTabular;
+namespace Ling\MysqlTabular;
 
 /*
  * LingTalfi 2015-10-03
@@ -28,7 +28,7 @@ namespace MysqlTabular;
  * but I will do as if integer types are right-aligned, and text types are left aligned.
  * 
  */
-use MysqlTabular\Exception\MysqlTabularAssocUtilException;
+use Ling\MysqlTabular\Exception\MysqlTabularAssocUtilException;
 
 class MysqlTabularAssocUtil
 {
